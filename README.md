@@ -1,2 +1,1 @@
-# nice-chat
-the nice chat app
+![readme wallpaper](nicechat.png)
